@@ -1,10 +1,11 @@
-import Phaser from 'phaser';
+//import Phaser from 'phaser';
+import * as Phaser from 'phaser';
 import { scenes } from './scenes/index';
 import './style.css';
 
 new Phaser.Game({
   width: 800,
-  heigth: 600,
+  height: 600,
   title: 'Phaser RPG',
   scene: scenes,
   url: import.meta.env.URL || '',

@@ -1,0 +1,33 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "durotar.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "durotar.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 557,
+                "y": 337.5
+            }
+        },
+        "durotar.json#tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "E:/Programs/programming/test project/ThreeJs/PhaserJs/rpgCourse/src/assets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "durotar.json"
+    ],
+    "project": "rpg.tiled-project",
+    "recentFiles": [
+        "durotar.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 1
+}
